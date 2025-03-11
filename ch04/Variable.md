@@ -42,7 +42,7 @@ var users = [
 ## 📝 식별자(Identifier)
 `식별자(Identifier)` 는 어떤 값을 구별해서 식별할 수 있는 고유한 이름을 말한다.
 
-<img src="변수-식별자.png">
+<img src="Variable.png">
 
 - 식별자 result는 값 30을 식별할 수 있다.
 - 이를 위해 result는 값 30이 저장되어 있는`메모리 주소(0x0669F913)를 기억`한다.
